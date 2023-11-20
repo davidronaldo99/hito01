@@ -1,0 +1,1 @@
+Cliente: Pablo, Productos: macarrones:3,aceite:5,pepinos:2,agua:1, Total: 13.31
